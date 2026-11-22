@@ -73,9 +73,13 @@ Tested areas include task creation, editing, deletion, status transitions, combi
 ## Hosting and repository
 
 - Hosted application URL: https://focusboard-jet-omega.vercel.app
-- GitHub repository URL: https://github.com/ramana6264/FocusBoard.git
+- GitHub repository URL: https://github.com/ramana6264/FocusBoard
+
+## Screenshots
+
+- [Desktop 1440 × 1000](./screenshots/desktop-1440.png)
+- [Mobile 390 × 1128](./screenshots/mobile-390.png)
 
 ## Known limitations
 
 - The sample app runs entirely in the browser and does not synchronize between devices.
-- Hosted deployment requires the repository to be deployed to Vercel or Netlify.
